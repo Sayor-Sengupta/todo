@@ -2,9 +2,7 @@ import {
   StyleSheet,
   View,
   Button,
-  TextInput,
   FlatList,
-  ImageBackground,
 } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import GoalInput from "./components/goalinput";
